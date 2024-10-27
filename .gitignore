@@ -1,0 +1,84 @@
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary or log files
+*.log
+*.out
+*.tmp
+*.DS_Store
+
+# Environment files and secrets
+.env
+*.env
+*.secret
+config.yaml
+
+# Data files
+data/
+*.csv
+*.tsv
+*.data
+*.dat
+*.db
+*.sqlite
+*.feather
+*.parquet
+*.h5
+*.hdf5
+*.zip
+*.gz
+*.tar
+*.pickle
+*.pkl
+*.joblib
+
+# Model files
+*.model
+*.ckpt
+*.h5
+*.onnx
+*.pb
+
+# Output folders (for notebooks, reports, etc.)
+output/
+results/
+figures/
+plots/
+
+# Packages
+*.egg-info/
+*.eggs/
+dist/
+build/
+__pycache__/
+
+# MacOS files
+.DS_Store
+
+# Jupyter Notebook and other configs
+.ipynb_checkpoints/
+*.nb.html
+*.nbconvert/
+*.ipynb_convert/
+
+# R files
+*.Rhistory
+.Rproj.user/
+.Rhistory
+.Rapp.history
+
+# MATLAB files
+*.mex
+*.fig
+*.m
